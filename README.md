@@ -162,6 +162,9 @@ This project demonstrates practical use of:
 - Security recommendations
 
 ---
+# 📌 Conclusion
+
+This project demonstrates how basic Python programming can be used to automate repetitive security log analysis tasks. The analyzer identifies failed authentication patterns and highlights users and IP addresses that require further investigation. The results demonstrate how scripting can support security analysts by reducing manual log review and providing an initial layer of automated detection.
 
 # 📁 Project Structure
 
